@@ -7,18 +7,19 @@ Features
     
 #Account Management
 
-    This feature allows users to manage their bank accounts, including registering and logging in, managing their user profile, 
-    and having an overview of their accounts. Users can also view their transaction history and download statements.
+    This feature allows users to manage their bank accounts, including registering and logging in, managing 
+    their user profile, and having an overview of their accounts. Users can also view their transaction 
+    history and download statements.
 
 #Online Banking
 
-    This feature enables users to perform various online banking transactions, including transferring funds to other bank accounts, 
-    paying bills, recharging mobile phones, and requesting a cheque book.
+    This feature enables users to perform various online banking transactions, including transferring funds 
+    to other bank accounts, paying bills, recharging mobile phones, and requesting a cheque book.
 
 #Payment Processing
     
-    This feature provides users with the ability to manage their credit and debit cards and process online payments for various 
-    services. 
+    This feature provides users with the ability to manage their credit and debit cards and process online 
+    payments for various services. 
 
 #Loan Services
     
@@ -26,13 +27,13 @@ Features
 
 #Customer Support
     
-    This feature offers users various options for customer support, including live chat, callback requests, and access to FAQs and 
-    support articles.
+    This feature offers users various options for customer support, including live chat, callback requests, and 
+    access to FAQs and support articles.
 
 #Notifications and Alerts
     
-    This feature provides users with various alerts and notifications, including transaction alerts, low balance alerts, overdraft 
-    alerts, and bill due reminders.
+    This feature provides users with various alerts and notifications, including transaction alerts, low balance 
+    alerts, overdraft alerts, and bill due reminders.
 
 Tech Stack
 
@@ -42,11 +43,12 @@ Tech Stack
 
 App Functionalities - EBanking Suite
     
-   ![App Functionalities EBankingSuite](https://user-images.githubusercontent.com/113800820/217906364-39df654b-db18-4563-a5bf-368c2255fec9.png)
+   ![image](https://user-images.githubusercontent.com/113800820/218764749-20f909f6-76fd-4e99-9b2c-7174fe116c1f.png)
+
 
 ERD - EBanking Suite
 
-   ![image](https://user-images.githubusercontent.com/113800820/217902086-173ce80e-8158-4349-b989-20839185b723.png)
+   ![image](https://user-images.githubusercontent.com/113800820/218764915-8872d225-1e45-47e9-bed7-33e281c9ec44.png)
 
 Getting Started
 
@@ -58,7 +60,6 @@ Prerequisites
     Spring Boot CLI
     An IDE such as Eclipse or IntelliJ IDEA
     Spring Boot Version 3.0.1
-    openJDK Version 11.0.15
     openJDK Version 11.0.15
     PostgreSQL
     
